@@ -1,6 +1,6 @@
 html {
   // 个属性启用了垂直方向(y轴)的滚动快照。"mandatory"表示浏览器必须将视口对齐到最近的快照点。
-  scroll-snap-type: y mandatory;
+  // scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
 }
 * {
